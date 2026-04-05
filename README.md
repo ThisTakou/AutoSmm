@@ -1,4 +1,4 @@
-# AutoSmm
+# FPC-AutoSmm-FullReolad
 Переработанный AutoSmm для FunPayCardinal: обновлен интерфейс, снижено потребление ресурсов и добавлено дробление заказов.
 
 # AutoSmm для FunPayCardinal
